@@ -21,3 +21,6 @@ cout<<arr[i] << " ";
 cout<<endl; 
     return 0;
 }
+/*OUTPUT:
+The sorted array will be: 12 23 56 78 144 
+*/
