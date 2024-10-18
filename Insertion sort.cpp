@@ -21,3 +21,7 @@ int main() {
     cout << endl;
     return 0;
 }
+/*
+OUTPUT:
+The sorted array will be: 9 12 23 45 86 
+*/
