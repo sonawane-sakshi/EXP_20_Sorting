@@ -24,3 +24,7 @@ int main() {
     cout << endl; // Add a newline for better output formatting
     return 0;
 }
+/*
+OUTPUT:
+The sorted array will be: 12 23 56 78 144
+*/
